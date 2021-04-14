@@ -35,10 +35,7 @@
 
 # About
 
-Python library for working with Metric Temporal Logic (MTL). Metric
-Temporal Logic is an extension of Linear Temporal Logic (LTL) for
-specifying properties over time series (See [Alur][1]). Some practical examples are
-given in the usage.
+This is a forked repository from [py-metric-temporal-logic](https://github.com/mvcisback/py-metric-temporal-logic). This is a Python library for working with Metric Temporal Logic (MTL). Metric Temporal Logic is an extension of Linear Temporal Logic (LTL) for specifying properties over time series (See [Alur][1]). Some practical examples are given in the usage.
 
 # Installation
 
